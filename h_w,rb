@@ -1,0 +1,5 @@
+students = []
+students. push "Amy"
+students. push "Linda"
+students. push "Marlene"
+puts students
